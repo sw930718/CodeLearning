@@ -8,10 +8,10 @@
     - 역순출력(나중에 들어온 순서)시 .reverse() 실행 후 출력
 - 재귀 함수 : 정의한 함수내에 자기자신(함수)호출 (반드시 if문으로 종료조건 작성해줘야함)
 
-- DFS(Depth First Search) : 깊이우선탐색 
-![예제]("/Users/mac/Downloads/IMG_764A65A40C73-1.jpeg")
-- BFS(Breath First Search) : 너비우선탐색
-![]("/Users/mac/Downloads/IMG_AFA97E85AC54-1.jpeg")
+- DFS(Depth First Search) : 깊이우선탐색    
+![예제](/Users/mac/Downloads/IMG_764A65A40C73-1.jpeg)    
+- BFS(Breath First Search) : 너비우선탐색   
+![예제](/Users/mac/Downloads/IMG_AFA97E85AC54-1.jpeg)    
 
 - 프로그래밍내 그래프 표현 방식 (그래프도 다양: 무방향/방향, 가중치X/가중치O)
     - 1. 인접행렬 : 2차원 배열 이용해 연결관계 표현  
