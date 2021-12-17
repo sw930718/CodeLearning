@@ -9,9 +9,9 @@
 - 재귀 함수 : 정의한 함수내에 자기자신(함수)호출 (반드시 if문으로 종료조건 작성해줘야함)
 
 - DFS(Depth First Search) : 깊이우선탐색    
-![예제](https://i.ibb.co/0nmLDYP/IMG-764-A65-A40-C73-1.jpg)    
+![예제](https://i.ibb.co/ZfGrLcy/IMG-764-A65-A40-C73-1.jpg)    
 - BFS(Breath First Search) : 너비우선탐색   
-![예제](/Users/mac/Downloads/IMG_AFA97E85AC54-1.jpeg)    
+![예제](https://i.ibb.co/T4jfvm9/IMG-AFA97-E85-AC54-1.jpg)    
 
 - 프로그래밍내 그래프 표현 방식 (그래프도 다양: 무방향/방향, 가중치X/가중치O)
     - 1. 인접행렬 : 2차원 배열 이용해 연결관계 표현  
