@@ -9,7 +9,7 @@
 - 재귀 함수 : 정의한 함수내에 자기자신(함수)호출 (반드시 if문으로 종료조건 작성해줘야함)
 
 - DFS(Depth First Search) : 깊이우선탐색    
-![예제](https://i.ibb.co/ZfGrLcy/IMG-764-A65-A40-C73-1.jpg)    
+![예제](https://i.ibb.co/0nmLDYP/IMG-764-A65-A40-C73-1.jpg)    
 - BFS(Breath First Search) : 너비우선탐색   
 ![예제](/Users/mac/Downloads/IMG_AFA97E85AC54-1.jpeg)    
 
