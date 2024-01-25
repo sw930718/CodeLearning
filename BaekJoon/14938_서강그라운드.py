@@ -33,7 +33,7 @@ def maxItem(start):
                 if distance[i] == 'INF':
                     heapq.heappush(h, ((plus_length+length), i))
             
-    
+    # start2일때, [INF, 2, 0, 5, 3, 8]
     for idx, values in enumerate(distance):
         if (values == 'INF') or (values > M):
             continue
